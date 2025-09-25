@@ -1,0 +1,23 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sherlock-and-array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusgadelha-escale/hackerrank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusgadelha-escale/hackerrank/issues"
+  },
+  "homepage": "https://github.com/viniciusgadelha-escale/hackerrank#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
