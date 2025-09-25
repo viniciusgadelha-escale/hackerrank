@@ -1,2 +1,5 @@
-// criando arquivo da atividade
-console.log("oi")
+function ola(){
+    console.log("oi")
+}
+
+ola()
